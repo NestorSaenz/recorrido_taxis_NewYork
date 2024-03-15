@@ -120,6 +120,6 @@ para visualizar la creacion del modelo se púede ver en el siguiente link [ML pr
 
    En cuanto al funcionamiento de la app (deploy), en cada parámetro se especifica la unidad del mismo. El usuario debe pasar solo valores numéricos. La zona de inicio y zona de fin se identifican con un número entero del 1 al 265 y dicho número está relacionado con la distribución geográfica de los barrios de NYC.
 
-    Para visualizar el archivo Streamlit hacer clic en el siguiente link [Streamlit](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Streamlit/main.py)
+Para visualizar el archivo Streamlit hacer clic en el siguiente link [Streamlit](https://github.com/TheAlfonzReyes/Taxis-electricos-NYC/blob/main/Streamlit/main.py)
 
 
