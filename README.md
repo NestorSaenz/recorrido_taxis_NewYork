@@ -97,8 +97,8 @@ Para la tercera semana como entregables principales se tiene el dashboard intera
 El dashboard de una manera interactiva muestra mediante sus graficos información relevante de los precios de  vehiculos, rendimiento segun su tipo: ya sean hibridos enchifables, 100% electricos o convencionales, algunas hallazgos son:
 1. Gasto en dolares de cada tipo de vehiculo para una autonomia de 450 km:
   * hibrido: 56.45
-  * carro 100& electrico 67.5
-   *carro convencional : 60.75
+  * carro 100% electrico 67.5
+  * carro convencional : 60.75
 2. Hay suficientes estaciones de carga distribuidos a lo largo de la ciudad de New York.
 3. EL vehiculo que mas se adecua a las necesidades de la empresa es el Toyota prius Prime.
 4. La autonomia combinada de dicho carro es 589 millas y su precio es 28775 dolares.
